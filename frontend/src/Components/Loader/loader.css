@@ -1,0 +1,17 @@
+.loader{
+    width: 100px;
+    height: 100px;
+    border: 5px solid var(--navColor);
+    border-bottom: 5px solid var(--secColor);
+    border-radius: 50%;
+    animation: animateLoad 1s linear infinite;
+}
+
+@keyframes animateLoad {
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
