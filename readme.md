@@ -60,7 +60,7 @@ To run Detectify locally, follow these steps:
 
 ## Demo
 
-Check out the demo of Detectify `DemoVideo.mp4`
+Check out the demo of Detectify `DemoVideo.mp4` and download it as a raw file
 
 ## Credits
 
